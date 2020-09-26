@@ -7,9 +7,7 @@ I have been using AWS for quite a while now and I have seen so many other AWS en
 
 Since, I have found so many such AWSome websites, I would like to share my collection with you all. I hope you will like this collection and don't forget to star my repo! 
 
-The websites listed here are categorized according to their domain/services. Though, I have written brief information about the website in front of the link which I hope you will find interesting and will cater to your needs. 
-
-Enjoy and do share this cool collection with your friends/colleagues who use AWS. I believe, this list is stil small and I do intend to include many more hidden gems out there so all your contribution is always welcome and appreciated 🙂 
+The websites listed here are categorized according to their domain/services. Though, I have written brief information about the website in front of the link which I hope you will find interesting and will cater to your needs. Enjoy and do share this cool collection with your friends/colleagues who use AWS. 🙂 
 
 
 # General :
