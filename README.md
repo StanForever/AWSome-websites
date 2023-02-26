@@ -17,6 +17,8 @@ The websites listed here are categorized according to their domain/services. Tho
 * [https://www.awsgeek.com](https://www.awsgeek.com/) : Find some cool cloud diagrams and notes for AWS services.
 * [https://awsclibuilder.com](https://awsclibuilder.com/) : Let this website help you BUILD YOUR AWS CLI COMMANDS. Get started by choosing any AWS service. Happy CLI Building !!
 * [https://isitonaws.com](https://isitonaws.com/) : Discover whether something on the Web is on AWS.
+* [https://www.aws-services.info](https://www.aws-services.info/) : Start typing service name into the Search: box below and then click on the desired Service name to find the Regions it is available in...
+* [https://awsicons.dev](https://awsicons.dev/) : Quickly Find & Copy AWS Icons. Open source SVG icon library with over 500+ icons.
 
 
 # AI :
@@ -60,6 +62,7 @@ The websites listed here are categorized according to their domain/services. Tho
 # Security : 
 * [https://awsu.me](https://awsu.me/) : Awsume is a convenient way to manage session tokens and assume role credentials.
 * [https://asecure.cloud](https://asecure.cloud/) : A free library of 400+ customizable AWS security configurations and best practices. Also available in CloudFormation, AWS CLI, Terraform.
+* [https://maturitymodel.security.aws.dev](https://maturitymodel.security.aws.dev/en/) : This model will help you prioritize recommended actions to strengthen your security posture at every stage of your journey to the cloud.
 
 
 # Serverless :
