@@ -39,7 +39,8 @@ The websites listed here are categorized according to their domain/services. Tho
 * [http://ec2-reachability.amazonaws.com](http://ec2-reachability.amazonaws.com/) : Do EC2 reachability tests. 
 * [https://ec2.shop](https://ec2.shop/) : Hacker way to compare Amazon EC2 instances price.
 * [https://ec2types.io](https://ec2types.io/) : Know and compare about different Amazon EC2 instance types.
-* [https://sparecores.com/servers](https://sparecores.com/servers) : Explore, search, and evaluate the supported cloud compute resources in the table. 
+* [https://sparecores.com/servers](https://sparecores.com/servers) : Explore, search, and evaluate the supported cloud compute resources in the table.
+* [https://spot.cloudpilot.ai](https://spot.cloudpilot.ai/) : Spot Insights, powered by CloudPilot AI, provides real-time, historical, and AZ spot instance pricing trends and interruption rates. Optimize cloud costs with granular data insights for AWS, Alibaba Cloud, Azure, and more.
 
 
 # Containers :
